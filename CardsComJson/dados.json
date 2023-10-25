@@ -1,0 +1,77 @@
+{
+    "desenhos":[
+        {
+            "nome":"Bob Esponja",
+            "idade":"18",
+            "poder":"irritante",
+            "imagem":"imagens/bob.jpeg"
+        },
+        {
+            "nome":"ciringuejo",
+            "idade":"38",
+            "poder":"milhonário",
+            "imagem":"imagens/ciringuejo.jpeg"
+            
+        },
+        {
+            "nome":"lula",
+            "idade":"50",
+            "poder":"negatividade",
+            "imagem": "imagens/lula.jpeg"
+        },
+        {
+            "nome":"patrick",
+            "idade":"15",
+            "poder":"risada insuportável",
+            "imagem": "imagens/patrick.jpeg"
+        },
+        {
+            "nome":"richard",
+            "idade":"25",
+            "poder":"hacker",
+            "imagem": "imagens/richard.jpeg"
+        },
+        {
+            "nome":"shereek",
+            "idade":"30",
+            "poder":"brutalidade",
+            "imagem": "imagens/shereek.jpeg"
+        },{
+            "nome":"Bob Esponja",
+            "idade":"18",
+            "poder":"irritante",
+            "imagem":"imagens/bob.jpeg"
+        },
+        {
+            "nome":"ciringuejo",
+            "idade":"38",
+            "poder":"milhonário",
+            "imagem":"imagens/ciringuejo.jpeg"
+            
+        },
+        {
+            "nome":"lula",
+            "idade":"50",
+            "poder":"negatividade",
+            "imagem": "imagens/lula.jpeg"
+        },
+        {
+            "nome":"patrick",
+            "idade":"15",
+            "poder":"risada insuportável",
+            "imagem": "imagens/patrick.jpeg"
+        },
+        {
+            "nome":"richard",
+            "idade":"25",
+            "poder":"hacker",
+            "imagem": "imagens/richard.jpeg"
+        },
+        {
+            "nome":"shereek",
+            "idade":"30",
+            "poder":"brutalidade",
+            "imagem": "imagens/shereek.jpeg"
+        }
+    ]
+}
